@@ -6,7 +6,7 @@
 
 **Product** : DIR-845L Router 
 
-**Firmware Link** : Firmware file is attached. Or you can download firmware at (https://www.mydlink.co.kr/2013/beta_board/product_detail.php?no=146&model=DIR-845L)
+**Firmware Link** : You can download firmware at (https://www.mydlink.co.kr/2013/beta_board/product_detail.php?no=146&model=DIR-845L)
 ![poc_dir845L](https://github.com/songah119/Report/assets/69359991/ea33375f-7e53-4cdf-8283-43a4d4405fdb)
 
 
